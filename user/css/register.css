@@ -1,0 +1,57 @@
+#register
+{
+  width: auto;
+  height: 600px;
+  border: 2px solid #000000;
+  margin: 10px;
+}
+
+#register dl
+{
+  width: auto;
+  height: 400px;
+}
+#register dl dt
+{
+ font-weight: bold;
+padding: 10px;
+}
+
+#register dl  dd 
+{
+ padding: 5px 0;
+ font-size: 14px;
+}
+
+#register dl dd input.text
+{
+ width: 220px;
+ height: 20px;
+ border: 1px solid #000000;
+}
+#register dl dd.face
+{
+
+}
+#register dd input.submit
+{
+  width: 60px;
+  height: 20px;
+}
+
+#register dd.face img
+{
+  cursor: pointer;
+}
+
+#code
+{
+	 padding: 5px 0;
+     font-size: 15px;
+}
+#code input.C
+{
+	 width:75px;
+     height: 20px;
+     border: 1px solid #000000;
+}

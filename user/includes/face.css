@@ -1,0 +1,24 @@
+
+#face h3
+{
+	width: 80%;
+	margin: 10px auto;
+	height: 30px;
+	line-height: 30px;
+	border: 1px solid #000000;
+} 
+
+#face dl
+{
+	
+}
+
+#face dl dd
+{
+	float: left;
+}
+
+#face dl dd img
+{
+	cursor: pointer;
+}
